@@ -16,6 +16,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla blandit, turpis i
 
 ## Administrador/Secretaria
 
+Verifique [aqui](https://github.com/gardeniaestevam/unifamec/blob/main/administrador.md).
+
 ## Professores
 
 ## Discentes
