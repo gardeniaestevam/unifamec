@@ -8,7 +8,7 @@ Jasmin é um sistema de gerenciamento de assuntos acadêmicos e estudantis desen
 
 Este material tem como objetivo esclarecer dúvidas sobre o funcionamento do sistema. Caso sua dúvida não seja respondida aqui, entre em contato conosco.
 
-O sistema possui três perfis de acesso: administrador, docente e discente. Cada perfil permite realizar processos e atividades específicos. Por isso, este material está organizado por perfil.
+O sistema possui três perfis de acesso: administrador/secretaria, coordenador, docente e discente. Cada perfil permite realizar processos e atividades específicos. Por isso, este material está organizado por perfil.
 
 ### Lorem ipsum 
 
