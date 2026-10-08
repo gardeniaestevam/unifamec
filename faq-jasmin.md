@@ -4,11 +4,11 @@
 
 ## Explicação
 
-Jasmin é um sistema de gerenciamento de assuntos acadêmicos e e estudantis criado pela própria Unifamec. Assim, o docente, discente e coordenação conseguem realizar atividades e operações necessárias para o dia a dia e para o bom funcionamento da Universidade. Esse material tem como objetivo sanar dúvidas relacionadas ao funcionamento do sistema. Se sua dúvida não está respondida aqui, por favor, nos contate.
+Jasmin é um sistema de gerenciamento de assuntos acadêmicos e estudantis desenvolvido pela própria Unifamec. Por meio dele, docentes, discentes e a coordenação podem realizar atividades e operações necessárias à rotina acadêmica e ao bom funcionamento da Universidade.
 
-## Primeiro login
+Este material tem como objetivo esclarecer dúvidas sobre o funcionamento do sistema. Caso sua dúvida não seja respondida aqui, entre em contato conosco.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc volutpat sed nibh non porta. Duis felis sapien, consectetur a sapien in, fermentum maximus magna. Morbi viverra vitae quam sed varius. Cras interdum ligula metus, at pellentesque ligula blandit eu. Maecenas interdum lectus rhoncus lorem tempus volutpat. Sed ac ex faucibus, malesuada nunc non, vestibulum velit. Nam sit amet gravida purus. Pellentesque sollicitudin consectetur consequat.
+O sistema possui três perfis de acesso: administrador, docente e discente. Cada perfil permite realizar processos e atividades específicos. Por isso, este material está organizado por perfil.
 
 ### Lorem ipsum 
 
@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla blandit, turpis i
 
 ## Administrador/Secretaria
 
-Verifique [aqui](https://github.com/gardeniaestevam/unifamec/blob/main/administrador.md).
+Toda a documentação referente às atividades realizadas pelo Administrador e Secretaria se encontram [aqui](https://github.com/gardeniaestevam/unifamec/blob/main/administrador.md).
 
 ## Professores
 
