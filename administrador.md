@@ -8,9 +8,11 @@ Este material reúne perguntas e respostas referentes ao perfil Administrador no
 
 [2. Como criar semestre?](2.)
 
-[2. Como criar turmas?](3.)
+[3. Como criar turmas?](3.)
 
-[3. Como criar ofertas?](4.)
+[4. Como criar ofertas?](4.)
+
+[5. Como consultar ofertas?](5.)
 
 <h2 id="1.">1. Como criar aluno?</h2>
 
