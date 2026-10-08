@@ -5,7 +5,9 @@ Este material reúne perguntas e respostas referentes ao perfil Administrador no
 ## Índice
 
 [1. Como criar aluno?](1.)
+
 [2. Como criar turmas?](2.)
+
 [3. Como criar ofertas?](3.)
 
 <h2 id="1.">1. Como criar aluno?</h2>
