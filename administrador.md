@@ -16,6 +16,12 @@ Este material reúne perguntas e respostas referentes ao perfil Administrador no
 
 [6. Como criar ofertas no histórico?](ofertas-historico)
 
+[7. Como adicionar aluno nas turmas?](adicionar-aluno-turma)
+
+[8. Como tratar chamados de alunos?](tratar-chamado)
+
+[9. Como criar e tratar eventos?](eventos)
+
 <h2 id="criar-aluno">1. Como criar aluno?</h2>
 
 Para criar um novo aluno, primeiro é necessário efetuar login no sistema. Agora vá na aba lateral, role até encontrar **Pessoas** e clique em **Alunos**. No canto superior direito, clique no botão **Novo Aluno**. Agora, preencha os dados do aluno. Campos marcados com um asterisco são obrigatórios e precisam ser preenchidos para que o cadastro seja realizado. Ao preencher tudo, clique em **Salvar Aluno**.
@@ -54,16 +60,18 @@ Caso um aluno precise contabilizar uma disciplina ofertada no passado ou em outr
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla blandit, turpis id sagittis aliquam, magna quam dignissim leo, sed sollicitudin elit quam eu sem. Sed hendrerit, metus at rhoncus aliquam, dolor velit consectetur dolor, vitae finibus nisl elit eget orci. Suspendisse potenti. Aenean varius, nunc eget fringilla consequat, leo eros bibendum neque, nec lobortis diam sapien at leo. Vestibulum felis lacus, mattis vitae ornare eget, viverra eget sem. Aenean id consequat elit.
 
-<h2 id="adicionar-aluno-turma">6. Como adicionar aluno nas turmas?</h2>
+<h2 id="adicionar-aluno-turma">7. Como adicionar aluno nas turmas?</h2>
 
 Esteja logado ao sistema e vá até a aba lateral e procure por **Acadêmico** e clique em **Turmas**. Aqui todas as turmas cadastradas no sistema são listadas. Procure pela turma que você adicionar alunos, o campo **Buscar turma ou curso...** poder ser utilizado para isso. Após encontrar a turma desejado, clique nos três pontinhos e em **Detalhes**. A seguir, a página da turma é aberta e informações referente à turma pode ser vista. E finalmente, para adicionar um aluno à turma, basta clicar em **Adicionar Alunos**.
 
 *inserir imagem*
 
-<h2 id="tratar-chamado">6. Como tratar chamados de alunos?</h2>
+<h2 id="tratar-chamado">8. Como tratar chamados de alunos?</h2>
 
 Procure na aba lateral a opção **Secretaria** e clique em **Chamados dos alunos**. Aqui, é possível acompanhar, tratar e monitorar chamados abertos pelos alunos. É possível listar os chamados pelo status, clicando em **Todos**, **Em atendimento**, **Resolvidos** ou **Arquivados**. Para cada chamado listado, algumas informações são mostradas, como título do chamado, descrição, setor, nome do autor do chamado, prioridade, número de acessos, data e horário do último acesso e data de criação do chamado. Clicando em **Tratar Chamado** a página do chamado é aberta, onde se tem acesso a resumo do chamado, anexos, tratativa, feedback e histórico. Em, **Histórico do chamado** todas as movimentações do chamado podem ser visualizadas. Em **Tratativa do chamado** é possível atualizar status, alterar prioridade, transferir o chamado para outro setor, enviar mensagem para o aluno autor do chamado ou enviar um comunicado para o setor que se está transferindo o chamado. O aluno não poderá ver a comunicação interna do chamado. 
 
-<h2 id="eventos">6. Como criar e tratar eventos?</h2>
+<h2 id="eventos">9. Como criar e tratar eventos?</h2>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla blandit, turpis id sagittis aliquam, magna quam dignissim leo, sed sollicitudin elit quam eu sem. Sed hendrerit, metus at rhoncus aliquam, dolor velit consectetur dolor, vitae finibus nisl elit eget orci. Suspendisse potenti. Aenean varius, nunc eget fringilla consequat, leo eros bibendum neque, nec lobortis diam sapien at leo. Vestibulum felis lacus, mattis vitae ornare eget, viverra eget sem. Aenean id consequat elit.
+
+
