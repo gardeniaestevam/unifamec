@@ -22,6 +22,8 @@ Este material reúne perguntas e respostas referentes ao perfil Administrador no
 
 [9. Como criar e tratar eventos?](eventos)
 
+[10. Como criar avaliação institucional?](cpa)
+
 <h2 id="criar-aluno">1. Como criar aluno?</h2>
 
 Para criar um novo aluno, primeiro é necessário efetuar login no sistema. Agora vá na aba lateral, role até encontrar **Pessoas** e clique em **Alunos**. No canto superior direito, clique no botão **Novo Aluno**. Agora, preencha os dados do aluno. Campos marcados com um asterisco são obrigatórios e precisam ser preenchidos para que o cadastro seja realizado. Ao preencher tudo, clique em **Salvar Aluno**.
@@ -86,4 +88,8 @@ Na página do evento, é possível ver o número de inscrições, de solicitaç�
 
 *inserir vídeo*
 
+<h2 id="cpa">10. Como criar avaliação institucional?</h2>
 
+Vá em **Acadêmico** na aba lateral e clique em **Avaliação Institucional** e terá acesso a página de gerenciamento de campanhas de avaliação institucional. Em **Campanhas**, todas as campanhas são listadas, apresentando nome da campanha, semestre, taxa de conclusão e status. Selecione uma campanha para leitura, o nome da campanha e o link são exibidos e ao lado se tem os botões **Copiar Link**, **Gerar Novo Link**, **Editar** e **Excluir**.
+
+Em seguida, existem a área **Status da campanha** e é possível clicar nos botões **Voltar para rascunho** e **Encerrar**. Logo após, a área **Gráficos e Retornos da CPA** pode ser vista. Aqui, os resultados da CPA selecionada é apresentado. Número de pessoas que já responderam, nota geral, 
