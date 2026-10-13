@@ -34,6 +34,8 @@ Efetue login no sistema e vá na aba lateral, em **Acadêmico** e clique em **Se
 
 Para criar um novo semestre, clique em **Novo semestre** no canto superior direito. Preencha todos os campos e se tudo por informado corretamente, o checklist operacional será completo e basta clicar em **Salvar Semestre**.
 
+*inserir vídeo*
+
 <h2 id="criar-turmas">3. Como criar turmas?</h2>
 
 Depois de efetuar login no sistema, vá na aba lateral e procure por **Acadêmico**, clique em **Turmas**. Em seguida, no canto superior direito, clique em **Nova Turma**. É importante lembrar que toda nova turma é criada como aberta. Depois de preencher os campos, clique em **Criar Turma**.
@@ -70,8 +72,18 @@ Esteja logado ao sistema e vá até a aba lateral e procure por **Acadêmico** e
 
 Procure na aba lateral a opção **Secretaria** e clique em **Chamados dos alunos**. Aqui, é possível acompanhar, tratar e monitorar chamados abertos pelos alunos. É possível listar os chamados pelo status, clicando em **Todos**, **Em atendimento**, **Resolvidos** ou **Arquivados**. Para cada chamado listado, algumas informações são mostradas, como título do chamado, descrição, setor, nome do autor do chamado, prioridade, número de acessos, data e horário do último acesso e data de criação do chamado. Clicando em **Tratar Chamado** a página do chamado é aberta, onde se tem acesso a resumo do chamado, anexos, tratativa, feedback e histórico. Em, **Histórico do chamado** todas as movimentações do chamado podem ser visualizadas. Em **Tratativa do chamado** é possível atualizar status, alterar prioridade, transferir o chamado para outro setor, enviar mensagem para o aluno autor do chamado ou enviar um comunicado para o setor que se está transferindo o chamado. O aluno não poderá ver a comunicação interna do chamado. 
 
+*inserir vídeo*
+
 <h2 id="eventos">9. Como criar e tratar eventos?</h2>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla blandit, turpis id sagittis aliquam, magna quam dignissim leo, sed sollicitudin elit quam eu sem. Sed hendrerit, metus at rhoncus aliquam, dolor velit consectetur dolor, vitae finibus nisl elit eget orci. Suspendisse potenti. Aenean varius, nunc eget fringilla consequat, leo eros bibendum neque, nec lobortis diam sapien at leo. Vestibulum felis lacus, mattis vitae ornare eget, viverra eget sem. Aenean id consequat elit.
+Na aba lateral, clique em **Eventos** e em seguida em **Gestão de eventos**. Números sobre eventos serão exibidos, como número total de eventos, número de eventos de extensão, de atividades complementares e quantidade total de vagas oferecidas. Procure por **Eventos e Atividades Complementares**. Para criar um novo evento, preencha os campos tema, categoria, carga horária, número de participantes, data e participação, onde nesse último, deve ser informado qual comunidade participará do evento, se é toda a instituição, um curso específico ou uma turma específica. Se for selecionado, curso ou turma, é obrigatório selecionar qual curso ou qual turma. 
+
+É possível informar também dias do evento ou frequência, onde deve ser cadastrado cada dia que terá check-in e uma descrição. Se não tiver dias cadastrados, então permanece o cadastramento único. É possível informar também, a presença mínima para certificado, ou seja, qual porcentagem de presenta o participante deve ser para obter certificado. A frequência considera dias inteiros, não horas. A primeira data será a data principal do evento. Depois de preencher tudo como desejado, basta clicar em **Cadastrar evento**.
+
+Os eventos cadastrados no sistema também estão expostos nessa área. Para cada evento cadastrado, é possível ver tema do evento, categoria, descrição, data, participação e número de vagas. Em **Buscar evento por tema, categoria, curso ou data..** é possível pesquisar por eventos cadastrados. Em um certo evento, se clicar no símbolo de lixeira, o evento será apagado e se clicar no símbolo de olho, a página de evento é acessada. 
+
+Na página do evento, é possível ver o número de inscrições, de solicitações pendentes, de credenciados e de carga horária. Na aba **Solicitações**, todas as solicitações pendentes são exibidas e é possível aprovar ou não uma solicitação. Em **Histórico de avaliações**, é possível acompanhar inscrições, registrar presença por dia e emitir certificados conforme a frequência mínima configurada. Já em **Comunidades** é a área onde se pode cadastrar um novo comunidade que será enviado para todos os participantes inscritos e ver todos os comunicados já enviados antes. E por fim, em **Configurações**, é possível alterar o público, vagas, carga horária e demais dados enquanto o evento estiver em operação.
+
+*inserir vídeo*
 
 
