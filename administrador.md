@@ -98,10 +98,10 @@ Em seguida, existem a área **Status da campanha** e é possível clicar nos bot
 
 Em **Gerar Link de Avaliação** uma nova CPA pode ser criada. Preencha todos os campos obrigatórios e em **Perguntas** adicione no mínimo uma pergunta e clique em **Criar campanha e gerar link**. 
 
-**inserir vídeo**
+*inserir vídeo*
 
 <h2 id="alterar-historico">11. Como alterar histórico de aluno?</h2>
 
 Na barra lateral, vá em **Pessoas** e em seguida em **Alunos**. Todos os alunos cadastrados no sistema serão apresentados. Busque por alunos em **Buscar por nome, e-mail ou nome social..." ou filtre alunos por cursos no botão de selecionar escrito **Todos os cursos**, ou por status no outro botão de selecionar escrito **Todos**. Ao encontrar o aluno desejado, clique nos três pontinhos e clique em **Detalhes**, a página do aluno será aberta, agora clique em **Histórico**. A página de edição de histórico é aberta, aqui é possível adicionar disciplinas, aproveitar disciplinas, editar informações de uma disciplina específica ao clicar no ícone de lápis ou até apagar disciplina ao clicar no ícone de lixeira. Logo após essas funções, informações referentes a carga horária e disciplinas são exibidas. Para salvar, clique em **Salvar histórico**. 
 
-**inserir vídeo**
+*inserir vídeo*
