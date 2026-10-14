@@ -1,7 +1,5 @@
 # Perguntas Frequentes - Jasmin
 
-## Índice
-
 ## Explicação
 
 Jasmin é um sistema de gerenciamento de assuntos acadêmicos e estudantis desenvolvido pela própria Unifamec. Por meio dele, docentes, discentes e a coordenação podem realizar atividades e operações necessárias à rotina acadêmica e ao bom funcionamento da Universidade.
