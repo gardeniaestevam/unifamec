@@ -28,4 +28,4 @@ Logo após, se tem a área **Contexto da oferta**, onde mais informações são 
 
 Em seguida, **Atalhos pedagógicos da oferta** são reunidos. O primeiro é **Ementa e estrutura** que abre módulos e aulas do modelo institucional. O segundo é **Materiais** que publica ou revisa materiais dessa oferta. O próximo é **Videoaulas** que leva a tela de gerenciamento de videoaulas vinculadas a essa oferta. E por fim, o botão **Avalições** que leva até a tela de montar ou revisar avaliações dessa oferta. 
 
-Logo após, 
+Logo após, algumas abas que agrupam opções de gerenciamento de oferta. A primeira aba é **Notas** onde é possível realizar configurações referentes a notas de alunos. A segunda aba é **Diário de Turma**, aqui é onde frequências são registradas. A próxima aba é **Comunicados**, onde é possível cadastrar um comunicados que será visível para todos os alunos cadastrados e além disso, visualizar todos os comunicados já publicados na oferta. Em seguida, a aba **Atividades** 
