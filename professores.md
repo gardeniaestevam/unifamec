@@ -10,7 +10,7 @@ O objetivo desse material é englobar perguntas e respostas referentes ao perfil
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla blandit, turpis id sagittis aliquam, magna quam dignissim leo, sed sollicitudin elit quam eu sem. Sed hendrerit, metus at rhoncus aliquam, dolor velit consectetur dolor, vitae finibus nisl elit eget orci. Suspendisse potenti. Aenean varius, nunc eget fringilla consequat, leo eros bibendum neque, nec lobortis diam sapien at leo. Vestibulum felis lacus, mattis vitae ornare eget, viverra eget sem. Aenean id consequat elit.
 
-## 2. Como acessar ofertar? 
+## 2. Como acessar ofertas? 
 
 Efetue login no sistema e vá em **Acadêmico** na aba lateral e clique em **Minhas Ofertas e Diário**. A página de ofertas é aberta e muita informações úteis estão reuniadas na parte superior da página. Em **Ofertas disponíveis para operação docente** todas as ofertadas cadastradas no nome do professor estão listadas, contudo, não existe opção de pesquisar ofertas e se existir muitas ofertas cadastradas no nome do professor é difícil e exaustivo procurar manualmente pela oferta desejada. 
 
@@ -18,3 +18,14 @@ Existe outra forma de acessar que permite pesquisa de ofertas. Ainda em **Acadê
 
 *inserir vídeo*
 
+## 3. Menu de Ofertas
+
+Ao entrar na página de uma oferta específica, é possível ver o nome da disciplina, código, nome do curso, nome da turma, semestre e número de alunos matriculados. Ao lado, os botões **Abrir turma**, **Gerenciar conteúdo da oferta**, e **Encerrar oferta** estão dispostos. O primeiro abre a turma da oferta, o segundo ao descer a tela, se percebe que abre a aba **Conteúdos** — as abas serão abordadas em breve. E o último, encerra a oferta. Essa ação precisa ser confirmada ao rolar a tela, indo na área **Conferência final da oferta** e clicando em **Confirmar encerramento**. 
+
+Mais abaixo, algumas informações são apresentadas, como número de alunos matriculados, porcentagem de notas lançadas, número de chamadas cadastradas e período da oferta. 
+
+Logo após, se tem a área **Contexto da oferta**, onde mais informações são apresentadas, sendo elas: nome e código da disciplina, turma e curso, nome do professor, nome da instituição e semestre. 
+
+Em seguida, **Atalhos pedagógicos da oferta** são reunidos. O primeiro é **Ementa e estrutura** que abre módulos e aulas do modelo institucional. O segundo é **Materiais** que publica ou revisa materiais dessa oferta. O próximo é **Videoaulas** que leva a tela de gerenciamento de videoaulas vinculadas a essa oferta. E por fim, o botão **Avalições** que leva até a tela de montar ou revisar avaliações dessa oferta. 
+
+Logo após, 
