@@ -32,4 +32,6 @@ Logo após, algumas abas que agrupam opções de gerenciamento de oferta. A prim
 
 ## 3. Como fazer frequência de aula? 
 
-Entre na página da oferta da disciplina, cujo tutorial pode ser encontrado [aqui]()
+Entre na página da oferta da disciplina, cujo tutorial pode ser encontrado [aqui]() e em seguida vá na aba **Diário de Turma**, tutorial se encontra [aqui](). Na área **Nova chamada**, informe data da aula e status da aula. Conteúdo lecionado e observações também podem ser informadas. Em **Preseça**, todos os alunos matriculados são listados, para marcar presença de um aluno marque a caixa de seleção **Presente**. Ao final, clique em **Salvar chamada**.
+
+Se for preciso editar uma chamada, não é possível ir no campo **Nova chamada** e inserir as novas informações e clicar em **Salvar chamada**. Porque o sistema já tem uma chamada salva pra um dia que já existe chamada cadastrada. Para editar uma chamada é preciso ir em **Chamadas registradas**, procurar pela data desejada e clicar no ícone de lápis chamado **Editar chamada**. Agora sim, a área **Editar chamada** será aberta, altere as informações e clique em **Atualizar chamada**. 
